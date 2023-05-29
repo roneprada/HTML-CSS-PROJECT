@@ -1,0 +1,6 @@
+[submodule "STARZ-SITE-DEMO"]
+	path = STARZ-SITE-DEMO
+	url = https://github.com/roneprada/STARZ-SITE-DEMO
+[submodule "Twitter-demo"]
+	path = Twitter-demo
+	url = https://github.com/roneprada/Twitter-demo
